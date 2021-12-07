@@ -1,0 +1,14 @@
+{
+"student":"Rania Arbash",
+"version":"2",
+"timestamp":"2021-11-12T18:25:43+0000",
+"count": 5,
+"data":
+[
+ {"id": 524, "courseCode":"MAP", "courseName":"Android"},
+ {"id": 114, "courseCode":"ITC", "courseName":"C language"},
+ {"id": 5334, "courseCode":"ITE", "courseName":"iOS"},
+ {"id": 5333, "courseCode":"ITE", "courseName":"Android"},
+ {"id": 5331, "courseCode":"ITE", "courseName":"Project Management"},
+]
+}
